@@ -1,1 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Repaso+de+CPP+para+exámen)](https://git.io/typing-svg)<br/>
+Ejercicios de 1º año de carrera de la asignatura
+fundamentals of programmig (C++)
