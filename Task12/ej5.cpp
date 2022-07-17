@@ -9,8 +9,8 @@
 
 /*
 
-Build a function that returns the sum of its two TMat pa-
-rameters:
+Build a function that returns the sum of its two 
+TMat parameters:
 
 */
 
